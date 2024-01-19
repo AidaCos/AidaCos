@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AidaCos
 - 👀 I’m interested in data science, IA, write and anime
-- 🌱 I’m currently waiting about the begin of school cycle, i'm gonna study Data science in IPN (mex)
-- 💞️ I’m looking to collaborate on ...... what's this?
+- 🌱 I’m study Data science in IPN
 - 📫 How to reach me later....
 
 <!---
