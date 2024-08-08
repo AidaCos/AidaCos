@@ -1,9 +1,150 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Página-1" id="oZ7Gsg2yPIm77miEetJb">
-    <mxGraphModel>
+    <mxGraphModel dx="1479" dy="1539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xca-dB9qPjCTGvozeR4q-1" value="personajes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-3" value="trio tchaikovsky" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dab6ed;strokeColor=#D685D6;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-7" value="Personaje" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-8" value="- Nombre real&lt;br&gt;- Nombre magico&lt;div&gt;- Palabras clave&lt;/div&gt;&lt;div&gt;- Contexto&lt;/div&gt;&lt;div&gt;- Poderes&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="xca-dB9qPjCTGvozeR4q-7">
+          <mxGeometry y="50" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-9" value="-greta Hoffman&lt;div&gt;-Nutckraker&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAB6ED;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-10" value="-&lt;div&gt;-Swan Lake&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAB6ED;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="260" y="170" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-11" value="-&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Opertura 1812&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAB6ED;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="160" y="170" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="xca-dB9qPjCTGvozeR4q-3" target="xca-dB9qPjCTGvozeR4q-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="200" as="sourcePoint" />
+            <mxPoint x="300" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="xca-dB9qPjCTGvozeR4q-3" target="xca-dB9qPjCTGvozeR4q-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="328" y="130" as="sourcePoint" />
+            <mxPoint x="360" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="xca-dB9qPjCTGvozeR4q-3" target="xca-dB9qPjCTGvozeR4q-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="312" y="130" as="sourcePoint" />
+            <mxPoint x="306" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-15" value="Bowie" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="100" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-17" value="-Mayor Tom&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Space oddity&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-control de la gravedad, aceleración del tiempo&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="190" width="170" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-18" value="-&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Lady stardust&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="-30" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-19" value="-&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Ziggy stardust&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="50" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-20" value="-&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Starwoman&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="-100" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-21" value="-&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Life on mars?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-modificación genetica a pequeña escala&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="199.5" width="120" height="90.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="xca-dB9qPjCTGvozeR4q-1" target="xca-dB9qPjCTGvozeR4q-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="325" y="130" as="sourcePoint" />
+            <mxPoint x="375" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="xca-dB9qPjCTGvozeR4q-1" target="xca-dB9qPjCTGvozeR4q-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="335" y="140" as="sourcePoint" />
+            <mxPoint x="385" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="xca-dB9qPjCTGvozeR4q-15" target="xca-dB9qPjCTGvozeR4q-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="59" y="60" as="sourcePoint" />
+            <mxPoint x="-44" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="xca-dB9qPjCTGvozeR4q-15" target="xca-dB9qPjCTGvozeR4q-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-53" y="130" as="sourcePoint" />
+            <mxPoint x="10" y="183" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="xca-dB9qPjCTGvozeR4q-15" target="xca-dB9qPjCTGvozeR4q-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-43" y="140" as="sourcePoint" />
+            <mxPoint x="20" y="193" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="xca-dB9qPjCTGvozeR4q-15" target="xca-dB9qPjCTGvozeR4q-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-73" y="130" as="sourcePoint" />
+            <mxPoint x="-113" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="xca-dB9qPjCTGvozeR4q-15" target="xca-dB9qPjCTGvozeR4q-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-83" y="130" as="sourcePoint" />
+            <mxPoint x="-200" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-29" value="Líder de Constellatio. Nacida en 1936, su infancia fue marcada por la guerra, la devastación y la ausencia de padres. Obtuvo sus poderes a partir un asedio a su ciudad, gracias a ella se pudo repeler el ataque enemigo. La devastación la llevaron a un aislamiento de su realidad sobreviviendo hasta nuestros días. Sus ideales socialistas infundidos por vivir en la unión soviética le ha hecho despreciar a los burgueses.&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="330" width="350" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-34" value="1943, 7 años. Despiertan sus poderes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-35" value="1986, 50 años. La primera estacion espacial en orbita" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-36" value="1990, 54 años. construcción de su propia estación espacial" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="30" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-37" value="1994, 58 años. Afronta la realidad por primera vez." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="30" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-38" value="2026, 90 años. Actualidad." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-39" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120" y="540" as="sourcePoint" />
+            <mxPoint x="-90" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-60" y="470" />
+              <mxPoint x="90" y="550" />
+              <mxPoint x="140" y="580" />
+              <mxPoint x="150" y="590" />
+              <mxPoint x="170" y="610" />
+              <mxPoint x="160" y="650" />
+              <mxPoint x="90" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-40" value="Una niña de 10 años que lleva botas altas y una gabardina sovietica vestida cómo tunica. una boina cubre gran parte de su frente y su cabello negro" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="680" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-41" value="cabello ondulado" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="680" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xca-dB9qPjCTGvozeR4q-42" value="La persona en quien más confía MT." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="330" width="350" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
