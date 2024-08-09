@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Página-1" id="oZ7Gsg2yPIm77miEetJb">
-    <mxGraphModel dx="2387" dy="1586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2419" dy="1604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
         <mxCell id="xca-dB9qPjCTGvozeR4q-19" value="-&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Ziggy stardust&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-690" y="209" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xca-dB9qPjCTGvozeR4q-20" value="-&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Starwoman&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="xca-dB9qPjCTGvozeR4q-20" value="-Ana&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Starwoman&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1190" y="204.75" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xca-dB9qPjCTGvozeR4q-21" value="-&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Life on mars?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Nihlismo, absurdismo&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-modificación genetica a pequeña escala&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -163,11 +163,14 @@
         <mxCell id="y8kFlX_KYbTW3JfM3lOp-4" value="Vestimenta &quot;goth nu&quot;, porta aretes con forma de cruz y su cabello teñido de morado la hacen resaltar." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1240" y="680" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="y8kFlX_KYbTW3JfM3lOp-5" value="escritora pretenciosa. 19 años" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="y8kFlX_KYbTW3JfM3lOp-5" value="escritora pretenciosa. 19 años. Vive en una constante frustración que comparte con sus 14 seguidores (entre ellos Lady). Cree que sus obras merecen más reconocimiento que cualquier libro de autoayuda aunque la redacción deja mucho que desear." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-745" y="330" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="y8kFlX_KYbTW3JfM3lOp-6" value="Contadora estupida. 21 años. Lleva las finanzas de Constellatio.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="y8kFlX_KYbTW3JfM3lOp-6" value="Contadora estupida. 21 años. Lleva las finanzas de Constellatio. Desea una vida tranquila junto a alguien especial.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1005" y="330" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="y8kFlX_KYbTW3JfM3lOp-7" value="Kuv" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="50" width="87" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
