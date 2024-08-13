@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Página-1" id="oZ7Gsg2yPIm77miEetJb">
-    <mxGraphModel dx="2419" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2306" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,8 +22,8 @@
         <mxCell id="xca-dB9qPjCTGvozeR4q-10" value="-&lt;div&gt;-Swan Lake&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAB6ED;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="550" y="230" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xca-dB9qPjCTGvozeR4q-11" value="-&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-1812 overture&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;victoria sobre francia&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAB6ED;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="220" y="230" width="90" height="80" as="geometry" />
+        <mxCell id="xca-dB9qPjCTGvozeR4q-11" value="-Katalina&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-1812 overture&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;victoria sobre francia&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAB6ED;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="219" y="230" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xca-dB9qPjCTGvozeR4q-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="xca-dB9qPjCTGvozeR4q-3" target="xca-dB9qPjCTGvozeR4q-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -58,7 +58,7 @@
         <mxCell id="xca-dB9qPjCTGvozeR4q-20" value="-Ana&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Starwoman&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1190" y="204.75" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xca-dB9qPjCTGvozeR4q-21" value="-&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Life on mars?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Nihlismo, absurdismo&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-modificación genetica a pequeña escala&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="xca-dB9qPjCTGvozeR4q-21" value="-Lienn De Gaulle&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Life on mars?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Nihlismo, absurdismo&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Alteración de la realidad en pequeña escala&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-480" y="199.5" width="200" height="100.5" as="geometry" />
         </mxCell>
         <mxCell id="xca-dB9qPjCTGvozeR4q-22" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="xca-dB9qPjCTGvozeR4q-1" target="xca-dB9qPjCTGvozeR4q-3" edge="1">
@@ -145,32 +145,56 @@
         <mxCell id="xca-dB9qPjCTGvozeR4q-42" value="La persona en quien más confía MT. Ella lleva el cuidado del jardín de Constellatio. Su mayor ambición en la vida es morir y hacer feliz a Mayor Tom." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-480" y="330" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="y8kFlX_KYbTW3JfM3lOp-1" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xca-dB9qPjCTGvozeR4q-18" target="xca-dB9qPjCTGvozeR4q-19">
+        <mxCell id="y8kFlX_KYbTW3JfM3lOp-1" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xca-dB9qPjCTGvozeR4q-18" target="xca-dB9qPjCTGvozeR4q-19" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-850" y="480" as="sourcePoint" />
             <mxPoint x="-750" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y8kFlX_KYbTW3JfM3lOp-2" value="protagonista. 17 años. Vivió una infancia rodeada de vicio, se ha sentido despreciada toda su vida por su familia, por la poca atención que le daban por ser tan &quot;buena niña&quot; y tener problemas reales que atender." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="y8kFlX_KYbTW3JfM3lOp-2" value="protagonista. 17 años. Vivió una infancia rodeada de vicio, se ha sentido despreciada toda su vida por su familia, por la poca atención que le daban por ser tan &quot;buena niña&quot; y tener problemas reales que atender." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1245" y="330" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="y8kFlX_KYbTW3JfM3lOp-3" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="xca-dB9qPjCTGvozeR4q-21" target="xca-dB9qPjCTGvozeR4q-17">
+        <mxCell id="y8kFlX_KYbTW3JfM3lOp-3" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" source="xca-dB9qPjCTGvozeR4q-21" target="xca-dB9qPjCTGvozeR4q-17" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-275" y="243.25" as="sourcePoint" />
             <mxPoint x="-105" y="246.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y8kFlX_KYbTW3JfM3lOp-4" value="Vestimenta &quot;goth nu&quot;, porta aretes con forma de cruz y su cabello teñido de morado la hacen resaltar." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="y8kFlX_KYbTW3JfM3lOp-4" value="Vestimenta &quot;goth nu&quot;, porta aretes con forma de cruz y su cabello teñido de morado la hacen resaltar." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1240" y="680" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="y8kFlX_KYbTW3JfM3lOp-5" value="escritora pretenciosa. 19 años. Vive en una constante frustración que comparte con sus 14 seguidores (entre ellos Lady). Cree que sus obras merecen más reconocimiento que cualquier libro de autoayuda aunque la redacción deja mucho que desear." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="y8kFlX_KYbTW3JfM3lOp-5" value="escritora pretenciosa. 19 años. Vive en una constante frustración que comparte con sus 14 seguidores (entre ellos Lady). Cree que sus obras merecen más reconocimiento que cualquier libro de autoayuda aunque la redacción deja mucho que desear." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-745" y="330" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="y8kFlX_KYbTW3JfM3lOp-6" value="Contadora estupida. 21 años. Lleva las finanzas de Constellatio. Desea una vida tranquila junto a alguien especial.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="y8kFlX_KYbTW3JfM3lOp-6" value="Contadora ingenua. 21 años. Lleva las finanzas de Constellatio. Desea una vida tranquila junto a alguien especial.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1005" y="330" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="y8kFlX_KYbTW3JfM3lOp-7" value="Kuv" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="y8kFlX_KYbTW3JfM3lOp-7" value="Kuv" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-500" y="50" width="87" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="da-zcHeVTYQQkIiGvuu9-1" value="base 10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-717.5" y="830" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="da-zcHeVTYQQkIiGvuu9-2" value="base 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="830" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="da-zcHeVTYQQkIiGvuu9-3" value="romano" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="191.5" y="840" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="da-zcHeVTYQQkIiGvuu9-5" value="tarot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1222.5" y="830" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="da-zcHeVTYQQkIiGvuu9-6" value="palitos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="522.5" y="830" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="da-zcHeVTYQQkIiGvuu9-7" value="(v,w,x,y,z)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-462.5" y="840" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="da-zcHeVTYQQkIiGvuu9-8" value="(a.b.c.d.e)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-122.5" y="830" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="da-zcHeVTYQQkIiGvuu9-9" value="------" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="760" y="830" width="145" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
